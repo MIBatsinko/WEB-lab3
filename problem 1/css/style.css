@@ -1,0 +1,30 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+td{
+  width: 120px;
+  height: 50px;
+  text-align: center;
+}
+
+.cellname{
+  padding-left: 10px;
+  text-align: left;
+  color: white;
+  background: #A3CEE9FF;
+}
+
+.cell{
+  background: #D3E7F4FF;
+  text-align: center;
+}
+
+.bold{
+  font-weight: bold;
+}
+
+.top{
+  text-align: center;
+}
